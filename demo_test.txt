@@ -56,13 +56,10 @@ $ git commit -m 'commiting a test file'
  create mode 100644 demo_test.txt
 
 PRASANT PANT@PrasantPant MINGW64 /f/Git/test (master)
-$ git config --global user.email 'prasantpant141@gmail.com'
+$ git config --global user.username pantcr7
 
 PRASANT PANT@PrasantPant MINGW64 /f/Git/test (master)
-$ git commit -m 'commiting a test file'
-[master (root-commit) ee9c567] commiting a test file
- 1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 demo_test.txt
+$ get remote add origin https://github.com/pantcr7/test_demo.git
 
 
 
